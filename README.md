@@ -25,6 +25,7 @@ A simple machine learning web app built with **Streamlit** that classifies SMS m
    cd spam-message-classifier
    
 2. Create a virtual environment & activate it:
+   ```
    python -m venv venv
    source venv/bin/activate   # For Linux/Mac
    venv\Scripts\activate      # For Windows
