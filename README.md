@@ -47,4 +47,4 @@ A simple machine learning web app built with **Streamlit** that classifies SMS m
 - Vectorizer: CountVectorizer / TF-IDF
 - Dataset: SMS Spam Collection Dataset (UCI)
 ## 👨‍💻 Author
-- ### Made with ❤️ by Your Name
+- ### Made with ❤️ by Luv Sharma
