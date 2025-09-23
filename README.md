@@ -33,17 +33,16 @@ A simple machine learning web app built with **Streamlit** that classifies SMS m
    pip install -r requirements.txt
 
 5. Download required NLTK data:
+   ```
    import nltk
    nltk.download("punkt")
    nltk.download("punkt_tab")
 
-6. Run the app:
+7. Run the app:
    streamlit run app.py
 
 ## 🧠 Model Details
 
-   -Algorithm: Multinomial Naive Bayes
-    
-   -Vectorizer: CountVectorizer / TF-IDF
-    
-   -Dataset: SMS Spam Collection Dataset (UCI)
+- Algorithm: Multinomial Naive Bayes
+- Vectorizer: CountVectorizer / TF-IDF
+- Dataset: SMS Spam Collection Dataset (UCI)
