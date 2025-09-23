@@ -29,7 +29,6 @@ A simple machine learning web app built with **Streamlit** that classifies SMS m
    python -m venv venv
    source venv/bin/activate   # For Linux/Mac
    venv\Scripts\activate      # For Windows
-
 4. Install dependencies:
    pip install -r requirements.txt
 
@@ -43,8 +42,8 @@ A simple machine learning web app built with **Streamlit** that classifies SMS m
 
 ## 🧠 Model Details
 
-    Algorithm: Multinomial Naive Bayes
+   -Algorithm: Multinomial Naive Bayes
     
-    Vectorizer: CountVectorizer / TF-IDF
+   -Vectorizer: CountVectorizer / TF-IDF
     
-    Dataset: SMS Spam Collection Dataset (UCI)
+   -Dataset: SMS Spam Collection Dataset (UCI)
