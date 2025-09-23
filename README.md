@@ -6,8 +6,6 @@ A simple machine learning web app built with **Streamlit** that classifies SMS m
 
 ## 🚀 Live Demo
 👉 Try the app on Render: https://spam-message-classifier-1-q3qu.onrender.com/
-<a href="https://spam-message-classifier-1-q3qu.onrender.com/" target="_blank">Try the app on Render</a>
-
 ---
 
 ## ⚙️ Features
