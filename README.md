@@ -46,3 +46,5 @@ A simple machine learning web app built with **Streamlit** that classifies SMS m
 - Algorithm: Multinomial Naive Bayes
 - Vectorizer: CountVectorizer / TF-IDF
 - Dataset: SMS Spam Collection Dataset (UCI)
+## 👨‍💻 Author
+- ### Made with ❤️ by Your Name
