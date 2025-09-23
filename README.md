@@ -38,6 +38,7 @@ A simple machine learning web app built with **Streamlit** that classifies SMS m
    nltk.download("punkt_tab")
 
 7. Run the app:
+   ```
    streamlit run app.py
 
 ## 🧠 Model Details
