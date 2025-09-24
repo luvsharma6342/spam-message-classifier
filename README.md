@@ -29,19 +29,18 @@ A simple machine learning web app built with **Streamlit** that classifies SMS m
    python -m venv venv
    source venv/bin/activate   # For Linux/Mac
    venv\Scripts\activate      # For Windows
-4. Install dependencies:
+3. Install dependencies:
+   ```
    pip install -r requirements.txt
 
-5. Download required NLTK data:
+4. Download required NLTK data:
    ```
    import nltk
    nltk.download("punkt")
    nltk.download("punkt_tab")
-
-7. Run the app:
+5. Run the app:
    ```
    streamlit run app.py
-
 ## 🧠 Model Details
 
 - Algorithm: Multinomial Naive Bayes
