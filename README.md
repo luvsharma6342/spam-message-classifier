@@ -32,7 +32,6 @@ A simple machine learning web app built with **Streamlit** that classifies SMS m
 3. Install dependencies:
    ```
    pip install -r requirements.txt
-
 4. Download required NLTK data:
    ```
    import nltk
